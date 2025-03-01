@@ -18,7 +18,7 @@
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "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",
+      "description": "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",
       "required": true
     }   
 },
